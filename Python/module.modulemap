@@ -1,0 +1,3 @@
+module Python {
+    umbrella header "C:\Users\indox\AppData\Local\Programs\Python\Python312\include\Python.h"
+}
